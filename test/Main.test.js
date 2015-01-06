@@ -104,4 +104,4 @@ vows.describe('doGet').addBatch({
       expect(isSucceeded[0].childNodes[0].tagName).to.equal('true');
     }
   }
-}).run();
+}).export(module);

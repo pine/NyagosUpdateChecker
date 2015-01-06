@@ -4,7 +4,7 @@
   "description": "Nyagos Update Checker =====================",
   "main": "Main.gs",
   "scripts": {
-    "test": "node test/Main.test.js"
+    "test": "vows test/Main.test.js --spec"
   },
   "repository": {
     "type": "git",

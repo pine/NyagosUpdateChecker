@@ -1,5 +1,6 @@
 Nyagos Update Checker
 =====================
+[![Build Status](https://travis-ci.org/pine613/NyagosUpdateChecker.svg?branch=master)](https://travis-ci.org/pine613/NyagosUpdateChecker)
 
 This is a Google Apps Script that get latest version of NYAGOS.
 

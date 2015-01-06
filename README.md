@@ -53,6 +53,7 @@ This app runs in my spreadsheet.
 There are some tests written by [Vows](http://vowsjs.org/) and [Chai](http://vowsjs.org/). The tests use some mock that run on Node.js as Google Apps Script API.
 
 ```
+$ npm install
 $ npm test
 ```
 

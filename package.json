@@ -1,0 +1,28 @@
+{
+  "name": "NyagosUpdateChecker",
+  "version": "1.0.0",
+  "description": "Nyagos Update Checker =====================",
+  "main": "Main.gs",
+  "scripts": {
+    "test": "node test/Main.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pine613/NyagosUpdateChecker.git"
+  },
+  "author": "Pine Mizune",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pine613/NyagosUpdateChecker/issues"
+  },
+  "homepage": "https://github.com/pine613/NyagosUpdateChecker",
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "lodash": "^2.4.1",
+    "request": "^2.51.0",
+    "synchronize": "^0.9.9",
+    "vows": "^0.9.0-rc2",
+    "xmldom": "^0.1.19",
+    "xpath": "0.0.8"
+  }
+}

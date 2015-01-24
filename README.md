@@ -3,7 +3,7 @@ Nyagos Update Checker
 [![Build Status](https://travis-ci.org/pine613/NyagosUpdateChecker.svg?branch=master)](https://travis-ci.org/pine613/NyagosUpdateChecker)
 [![devDependency Status](https://david-dm.org/pine613/NyagosUpdateChecker/dev-status.svg)](https://david-dm.org/pine613/NyagosUpdateChecker#info=devDependencies)
 
-This is a Google Apps Script that get latest version of NYAGOS.
+This is a Google Apps Script that get latest version of [NYAGOS](https://github.com/zetamatta/nyagos).
 
 ## Developing enviroment
 

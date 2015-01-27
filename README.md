@@ -18,7 +18,6 @@ GET /?format=[output format]
 ```
 
 ### Parameters
-Both parameters are optional.
 
 - format: 'json' (default) or 'xml'
 

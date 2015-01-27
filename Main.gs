@@ -39,7 +39,7 @@ function getRelease () {
     if (!releases[i].assets) continue;
     
     for (var j = 0; j < releases[i].assets.length; ++j) {
-      var asset = releases[i].assets[i];
+      var asset = releases[i].assets[j];
       var downloadUrl = asset.browser_download_url;
       
       if (DOWNLOAD_URL_REGEX.test(downloadUrl)) {

@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pine613/NyagosUpdateChecker.git"
+    "url": "https://github.com/pine/NyagosUpdateChecker.git"
   },
   "author": "Pine Mizune",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pine613/NyagosUpdateChecker/issues"
+    "url": "https://github.com/pine/NyagosUpdateChecker/issues"
   },
-  "homepage": "https://github.com/pine613/NyagosUpdateChecker",
+  "homepage": "https://github.com/pine/NyagosUpdateChecker",
   "devDependencies": {
     "chai": "^2.0.0",
     "lodash": "^3.0.0",

@@ -1,7 +1,7 @@
 Nyagos Update Checker
 =====================
 [![Build Status](https://travis-ci.org/pine/NyagosUpdateChecker.svg?branch=master)](https://travis-ci.org/pine/NyagosUpdateChecker)
-[![devDependency Status](https://david-dm.org/pine/NyagosUpdateChecker/dev-status.svg)](https://david-dm.org/pine/NyagosUpdateChecker#info=devDependencies)
+[![devDependency Status](https://david-dm.org/pine/NyagosUpdateChecker/dev-status.svg)](https://david-dm.org/pine/NyagosUpdateChecker#info=devDependencies) [![Greenkeeper badge](https://badges.greenkeeper.io/pine/NyagosUpdateChecker.svg)](https://greenkeeper.io/)
 
 This is a Google Apps Script that get latest version of [NYAGOS](https://github.com/zetamatta/nyagos).
 
